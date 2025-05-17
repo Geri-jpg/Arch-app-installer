@@ -72,7 +72,7 @@ A simple graphical tool for quickly installing your favorite apps on a fresh Arc
 
    ```bash
    chmod +x arch-app-installer.sh
-   ./arch-app-installer.sh
+   sudo ./arch-app-installer.sh
    ```
 
 ---
