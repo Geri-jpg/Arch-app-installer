@@ -1,6 +1,6 @@
 # 🧩 Arch App Installer
 
-A simple graphical tool for quickly installing your favorite apps on a fresh Manjaro Linux system — using only the official `pacman` repository.
+A simple graphical tool for quickly installing your favorite apps on a fresh Arch Linux system — using only the official `pacman` repository.
 
 ✅ Works entirely with `bash` + `yad`
 ✅ No AUR, no Flatpak, no Snap
