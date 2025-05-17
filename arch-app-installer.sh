@@ -59,7 +59,7 @@ done
 # Show selection dialog
 selected_apps=$(yad --list \
   --checklist \
-  --title="🧩 Manjaro Software Installer" \
+  --title="🧩 Arch Software Installer" \
   --column="Install" --column="Program" \
   $yad_input \
   --width=600 --height=600 \
